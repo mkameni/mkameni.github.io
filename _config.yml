@@ -29,7 +29,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark>, <mark>GCP</mark>, <mark>Azure</mark>, <mark>Openstack</mark>, <mark>Baremetal</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
-projects_title: Projects
+# projects_title: Projects
 
 # Experience Section
 # experience_title: Experience
@@ -44,7 +44,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Watch and play football
    - Travel
    - Unboarding immigrant newcomer in Canada
-  #  - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#  - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
